@@ -1,6 +1,5 @@
 # Selenium 4.0 step by step with Java
 
-![image](https://user-images.githubusercontent.com/89974862/149460510-99d4cd94-ab02-4d71-a43d-495d31e1da4f.png)
 
 
 **Youtube Webinar Video**
